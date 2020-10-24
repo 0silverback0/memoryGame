@@ -7,7 +7,7 @@
 body {
   height: 100%;
   display: flex;
-  background: black;
+  background: rgb(226, 196, 25);
 }
 
 #game{
