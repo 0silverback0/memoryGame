@@ -10,6 +10,9 @@ body {
   background: rgb(226, 196, 25);
 }
 
+.head{
+  color: rgb(255, 0, 0)
+}
 #game{
   width: 640px;
   height: 640px;
